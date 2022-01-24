@@ -2,6 +2,7 @@ import React,{useEffect,useState} from 'react';
 import './RowPost.css'
 import {API_KEY,imageUrl} from '../../constants/constants'
 import axios from '../../axios'
+
 function RowPost(props) {
   const [movies, setMovies] = useState([]);
   useEffect(() => {

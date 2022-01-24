@@ -4,3 +4,4 @@ export const action = 'https://api.themoviedb.org/3/discover/movie?api_key=9624e
 export const comedy='https://api.themoviedb.org/3/discover/movie?api_key=9624eec958977c90a0896be8c376f63f&with_genres=35'
 export const horror='https://api.themoviedb.org/3/discover/movie?api_key=9624eec958977c90a0896be8c376f63f&with_genres=27'
 export const romance='https://api.themoviedb.org/3/discover/movie?api_key=9624eec958977c90a0896be8c376f63f&with_genres=10749'
+export const documentaries='https://api.themoviedb.org/3/discover/movie?api_key=9624eec958977c90a0896be8c376f63f&with_genres=99'
